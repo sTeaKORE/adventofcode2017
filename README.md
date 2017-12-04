@@ -1,2 +1,2 @@
 # adventofcode2017
-repository containing program which solved challenges of advent of code 2017
+Repository which holds all programs which solved advent of code challenges.
