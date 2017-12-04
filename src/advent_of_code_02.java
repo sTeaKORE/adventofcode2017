@@ -24,6 +24,7 @@ public class advent_of_code_02 {
             int addCheckSum = high - low;
             checkSum += addCheckSum;
         }
+        in.close();
         System.out.println(checkSum);
     }
 }

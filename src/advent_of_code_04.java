@@ -17,6 +17,7 @@ public class advent_of_code_04 {
                 overallCount++;
             }
         }
+        in.close();
         System.out.println(overallCount);
     }
 }
